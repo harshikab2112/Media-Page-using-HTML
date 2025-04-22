@@ -4,7 +4,7 @@ Welcome to the **Media Page using HTML** project! This webpage is a beginner-fri
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://your-username.github.io/Media-Page-using-HTML)  
+👉 [Live Demo](https://media-page-hb.netlify.app/)  
 > _Replace `your-username` with your actual GitHub username._
 
 ## 📌 Features
