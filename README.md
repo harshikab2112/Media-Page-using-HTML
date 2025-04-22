@@ -1,11 +1,9 @@
 # Media Page using HTML
-
 Welcome to the **Media Page using HTML** project! This webpage is a beginner-friendly example demonstrating how to create a multimedia-rich site using only HTML. It showcases the use of audio, video, images, tables, internal linking, and embedded YouTube playlists.
 
 ## 🌐 Live Demo
 
-👉 [Live Demo](https://media-page-hb.netlify.app/)  
-> _Replace `your-username` with your actual GitHub username._
+[Live Demo](https://media-page-hb.netlify.app/)  
 
 ## 📌 Features
 
